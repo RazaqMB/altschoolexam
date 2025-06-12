@@ -10,10 +10,10 @@ A dynamic landing page to showcase cloud deployment, Node.js backend, and Nginx 
 
 ## Screenshot
 
-![screenshot](./altschoolexam.png)
-![screenshot](./SellPage.png)
-![screenshot](./BuyPage.png)
-![screenshot](./Checkout.png)
+![myimage](./altschoolexam.png)
+![myimage](./SellPage.png)
+![myimage](./BuyPage.png)
+![myimage](./Checkout.png)
 
 ## Setup Summary
 
